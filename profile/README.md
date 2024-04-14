@@ -28,9 +28,14 @@
 ## Architecture 
 ![029](https://github.com/13th-month-lucky/.github/assets/37354574/e87f8e26-684a-42e9-9592-6db92dfafbc1)
 
+![037](https://github.com/13th-month-lucky/.github/assets/37354574/d211b416-0a40-499c-8211-60824ea76ee6)
+![033](https://github.com/13th-month-lucky/.github/assets/37354574/1b90976a-02ba-4730-975d-1a06f00b3aec)
+![034](https://github.com/13th-month-lucky/.github/assets/37354574/1a7bc3fc-25e7-4bd0-864c-d32e321013aa)
+![035](https://github.com/13th-month-lucky/.github/assets/37354574/d68328a1-ad28-46d8-9a93-bba6b523aa9b)
+![036](https://github.com/13th-month-lucky/.github/assets/37354574/2e8cf575-d084-47a4-9da3-4aa71c5740db)
+![038](https://github.com/13th-month-lucky/.github/assets/37354574/6c963eb5-4c4f-4c8d-a6c0-291ad7386676)
+
 ## ERD
-
-
 
 ![0312 화이팅](https://github.com/13th-month-lucky/.github/assets/37354574/d23cc2c3-40a7-46d4-a04c-4f82b8005fe5)
 
