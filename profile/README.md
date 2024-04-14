@@ -1,7 +1,8 @@
 13월
------
+----
 
 ![002](https://github.com/13th-month-lucky/.github/assets/37354574/23fde479-2709-4f34-bd28-1cbfad985b7b)
+> 13월은 갓 취업한 사회초년생을 위해, 절세 및 투자를 통한 자산 형성에 도움을 주는 서비스입니다!
 
 ## Demo
 
