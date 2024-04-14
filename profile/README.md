@@ -3,7 +3,6 @@
 
 ![002](https://github.com/13th-month-lucky/.github/assets/37354574/23fde479-2709-4f34-bd28-1cbfad985b7b)
 
-
 ## Demo
 
 [![Video Label](http://img.youtube.com/vi/2fSvSiX4dG8/0.jpg)](https://youtu.be/2fSvSiX4dG8)
@@ -28,17 +27,34 @@
 ## Architecture 
 ![029](https://github.com/13th-month-lucky/.github/assets/37354574/e87f8e26-684a-42e9-9592-6db92dfafbc1)
 
-![037](https://github.com/13th-month-lucky/.github/assets/37354574/d211b416-0a40-499c-8211-60824ea76ee6)
+### ERD
+![0312 화이팅](https://github.com/13th-month-lucky/.github/assets/37354574/d23cc2c3-40a7-46d4-a04c-4f82b8005fe5)
+
 ![033](https://github.com/13th-month-lucky/.github/assets/37354574/1b90976a-02ba-4730-975d-1a06f00b3aec)
 ![034](https://github.com/13th-month-lucky/.github/assets/37354574/1a7bc3fc-25e7-4bd0-864c-d32e321013aa)
 ![035](https://github.com/13th-month-lucky/.github/assets/37354574/d68328a1-ad28-46d8-9a93-bba6b523aa9b)
 ![036](https://github.com/13th-month-lucky/.github/assets/37354574/2e8cf575-d084-47a4-9da3-4aa71c5740db)
+
+### API
+
+![037](https://github.com/13th-month-lucky/.github/assets/37354574/d211b416-0a40-499c-8211-60824ea76ee6)
 ![038](https://github.com/13th-month-lucky/.github/assets/37354574/6c963eb5-4c4f-4c8d-a6c0-291ad7386676)
-
-## ERD
-
-![0312 화이팅](https://github.com/13th-month-lucky/.github/assets/37354574/d23cc2c3-40a7-46d4-a04c-4f82b8005fe5)
 
 ## R&R 
 ![017](https://github.com/13th-month-lucky/.github/assets/37354574/88ddd354-d315-42e7-9377-8c00b15dafce)
+
+## Plan 
+![039](https://github.com/13th-month-lucky/.github/assets/37354574/5a7f7567-baae-4aa6-bfd3-b85a2aa222b0)
+
+## Collaborate
+![040](https://github.com/13th-month-lucky/.github/assets/37354574/a786be99-001e-4283-829e-55033f207f29)
+![041](https://github.com/13th-month-lucky/.github/assets/37354574/9b52c0cc-1d86-4b35-9238-05d3292b4e36)
+
+## Retrospect
+![042](https://github.com/13th-month-lucky/.github/assets/37354574/949ff935-3df7-4477-8879-73d3ff6cc3e0)
+![043](https://github.com/13th-month-lucky/.github/assets/37354574/7b23f729-9f16-4130-85dd-3783638f2ee3)
+
+## Future Plan
+![044](https://github.com/13th-month-lucky/.github/assets/37354574/724c2cca-ccaa-45a6-b722-579e9b0d82a5)
+
 
