@@ -1,12 +1,39 @@
-## Hi there 👋
+13월
+-----
 
-<!--
+![002](https://github.com/13th-month-lucky/.github/assets/37354574/23fde479-2709-4f34-bd28-1cbfad985b7b)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Demo
+
+[![Video Label](http://img.youtube.com/vi/2fSvSiX4dG8/0.jpg)](https://youtu.be/2fSvSiX4dG8)
+
+## Main Feature
+
+![020](https://github.com/13th-month-lucky/.github/assets/37354574/ceb80958-a365-42b8-b65a-b2c6d6fd620f)
+
+![021](https://github.com/13th-month-lucky/.github/assets/37354574/dc825252-f3e3-4d4c-8c6c-65ced25ebaa0)
+![022](https://github.com/13th-month-lucky/.github/assets/37354574/dd3bafd1-f02f-4eb2-b6b6-24c530fa738b)
+![023](https://github.com/13th-month-lucky/.github/assets/37354574/6bdd7c68-f824-45e1-ab73-bcae4bfe560e)
+![024](https://github.com/13th-month-lucky/.github/assets/37354574/a776b8a1-0559-4d7b-8d7d-f285ce557d71)
+
+![025](https://github.com/13th-month-lucky/.github/assets/37354574/f5331230-3068-4f15-ad89-24efc41ce391)
+![026](https://github.com/13th-month-lucky/.github/assets/37354574/56e7e75a-94da-4a17-9d74-b0453b0aadc7)
+
+![027](https://github.com/13th-month-lucky/.github/assets/37354574/8d9d3b7b-27cb-4117-9744-ef6ed2c6bcca)
+![028](https://github.com/13th-month-lucky/.github/assets/37354574/335ecc1a-3905-4548-aa62-3ec8c80af4be)
+
+![030](https://github.com/13th-month-lucky/.github/assets/37354574/f90c5ed9-326a-4d54-871f-a2e4b53b3516)
+
+## Architecture 
+![029](https://github.com/13th-month-lucky/.github/assets/37354574/e87f8e26-684a-42e9-9592-6db92dfafbc1)
+
+## ERD
+
+
+
+![0312 화이팅](https://github.com/13th-month-lucky/.github/assets/37354574/d23cc2c3-40a7-46d4-a04c-4f82b8005fe5)
+
+## R&R 
+![017](https://github.com/13th-month-lucky/.github/assets/37354574/88ddd354-d315-42e7-9377-8c00b15dafce)
+
