@@ -6,11 +6,13 @@
 
 
 
-## Project Info
+## 프로젝트 소개
 
-신한투자증권 프로 디지털 아카디미 React 과정 최종 프로젝트
+신한투자증권 프로 디지털 아카디미 프론트(React) 과정 최종 프로젝트
+주제: Open API를 활용한 금융 서비스 개발
 개발기간: 4주
 
+<br/>
 
 ## Member
 
@@ -64,7 +66,7 @@
 <br/>
 
 
-## 기능 소개
+## 주요 서비스
 
 ### 연말정산
 
@@ -74,6 +76,10 @@
 
 개인 투자성향, 선호 종목, 인기 or 핫 주식 포함 종목 등 다양한 조건에 맞춰 개인 맞춤형 종목 추천
 
+<br/>
+<br/>
+
+
 ## Stack
 
 
@@ -82,35 +88,38 @@
 
 
 
-## FOR START
+## 프로젝트 시작하기
 
-#### For building and running the application you need
+### Build & Run 
 
-`Node.js v21.4.0.`
-<br/>
+```
+Node.js v21.4.0.
 `NPM v10.2.4.`
-<br/>
-
+```
 
 #### Installation
-
-`$ git clone https://github.com/13th-month-lucky.git`
-<br/>
-`$ cd 13th-month-lucky`
+```
+$ git clone https://github.com/13th-month-lucky.git
+$ cd 13th-month-lucky
+```
 <br/>
 
 #### fontend
-`$ cd backend`
-<br/>
-`$ npm install`
-<br/>
-`$ npm run dev`
+
+```
+$ cd backend
+$ npm install
+$ npm run dev
+```
 <br/>
 
 #### backend
-`$ cd frontend`<br/>
-`$ npm install`<br/>
-`$ npm run dev`<br/>
+
+```
+$ cd frontend`
+$ npm install`
+$ npm run dev`
+```
 
 ## Demo
 
