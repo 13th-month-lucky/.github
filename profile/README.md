@@ -90,13 +90,14 @@
 
 ## 프로젝트 시작하기
 
-### Build & Run 
+
+#### Version 
 
 ```
 Node.js v21.4.0.
 `NPM v10.2.4.`
 ```
-
+<br/>
 #### Installation
 ```
 $ git clone https://github.com/13th-month-lucky.git
@@ -120,6 +121,7 @@ $ cd frontend`
 $ npm install`
 $ npm run dev`
 ```
+<br/>
 
 ## Demo
 
