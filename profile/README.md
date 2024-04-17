@@ -105,7 +105,7 @@
 
 ```
 Node.js v21.4.0.
-`NPM v10.2.4.`
+npm v10.2.4.
 ```
 
 #### Installation
