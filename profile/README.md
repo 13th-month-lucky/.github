@@ -125,9 +125,9 @@ $ npm run dev
 #### backend
 
 ```
-$ cd frontend`
-$ npm install`
-$ npm run dev`
+$ cd frontend
+$ npm install
+$ npm run dev
 ```
 
 ## Demo
