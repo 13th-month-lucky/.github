@@ -97,14 +97,12 @@
 Node.js v21.4.0.
 `NPM v10.2.4.`
 ```
-<br/>
 
 #### Installation
 ```
 $ git clone https://github.com/13th-month-lucky.git
 $ cd 13th-month-lucky
 ```
-<br/>
 
 #### fontend
 
@@ -113,7 +111,6 @@ $ cd backend
 $ npm install
 $ npm run dev
 ```
-<br/>
 
 #### backend
 
@@ -122,7 +119,6 @@ $ cd frontend`
 $ npm install`
 $ npm run dev`
 ```
-<br/>
 
 ## Demo
 
