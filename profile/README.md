@@ -70,7 +70,7 @@
 
 `$ git clone https://github.com/13th-month-lucky.git`
 <br/>
-`$ cd 13th-month-lucky
+`$ cd 13th-month-lucky`
 <br/>
 
 #### fontend
