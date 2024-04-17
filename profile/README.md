@@ -55,32 +55,38 @@
 
 <br/>
 
-## Demo
-
 
 ## FOR START
 
 #### For building and running the application you need
 
 `Node.js v21.4.0.`
+<br/>
 `NPM v10.2.4.`
+<br/>
 
 
 #### Installation
 
 `$ git clone https://github.com/13th-month-lucky.git`
+<br/>
 `$ cd 13th-month-lucky
+<br/>
 
 #### fontend
 `$ cd backend`
+<br/>
 `$ npm install`
+<br/>
 `$ npm run dev`
+<br/>
 
 #### backend
-`$ cd frontend`
-`$ npm install`
-`$ npm run dev`
+`$ cd frontend`<br/>
+`$ npm install`<br/>
+`$ npm run dev`<br/>
 
+## Demo
 
 [![Video Label](http://img.youtube.com/vi/2fSvSiX4dG8/0.jpg)](https://youtu.be/2fSvSiX4dG8)
 
