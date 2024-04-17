@@ -41,13 +41,11 @@
 
 #### 김유현
 
-`소득공제` `스케줄링`
+`소득공제` `결과` 
 
-> 연말정산 소득공제 구현
+> 연말정산 소득공제, 결과 구현
 
-> 크롤러 스케줄링
-
-> 펀드 데이터 수집
+> 펀드 데이터 수집 및 스케줄링
 
 <br/>
 
@@ -89,9 +87,10 @@
 ## Stack
 
 
-- Frontend : ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) TailwindCSS
+- Frontend : ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white)  
 
-- Backend : Node.js, Express
+- Backend : ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
 
 <br/><br/>
 
@@ -129,6 +128,7 @@ $ cd frontend
 $ npm install
 $ npm run dev
 ```
+
 
 ## Demo
 
@@ -168,10 +168,6 @@ $ npm run dev
 
 ![037](https://github.com/13th-month-lucky/.github/assets/37354574/d211b416-0a40-499c-8211-60824ea76ee6)
 ![038](https://github.com/13th-month-lucky/.github/assets/37354574/6c963eb5-4c4f-4c8d-a6c0-291ad7386676)
-
-## R&R
-
-![017](https://github.com/13th-month-lucky/.github/assets/37354574/88ddd354-d315-42e7-9377-8c00b15dafce)
 
 ## Plan
 
